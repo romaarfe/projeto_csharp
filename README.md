@@ -3,5 +3,6 @@
 
 Projeto de C# em Windows Forms emulando um  jogo de RPG antigo com texto corrido
 
+<img width="406" alt="Captura de ecrã 2023-04-26, às 15 20 53" src="https://user-images.githubusercontent.com/91450312/234605600-5a0e3627-a75c-405a-9877-f0830b00d51b.png">
 
-![Imagem do WhatsApp de 2023-03-25 à(s) 12 38 51](https://user-images.githubusercontent.com/91450312/234489705-f94b8e8f-020d-42d8-96bb-2f342453a27d.jpg)
+
