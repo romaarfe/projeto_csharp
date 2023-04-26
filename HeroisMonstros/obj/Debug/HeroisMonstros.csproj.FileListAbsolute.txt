@@ -1,0 +1,67 @@
+C:\Users\admin\OneDrive\Área de Trabalho\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Área de Trabalho\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive\Área de Trabalho\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.exe
+C:\Users\admin\OneDrive\Área de Trabalho\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.pdb
+C:\Users\admin\OneDrive\Área de Trabalho\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\HeroisMonstros.exe.config
+C:\Users\admin\OneDrive\Área de Trabalho\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\HeroisMonstros.exe
+C:\Users\admin\OneDrive\Área de Trabalho\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\HeroisMonstros.pdb
+C:\Users\admin\OneDrive\Área de Trabalho\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.CarregarJogo.resources
+C:\Users\admin\OneDrive\Área de Trabalho\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.NovoJogo.resources
+C:\Users\admin\OneDrive\Área de Trabalho\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.TelaInicial.resources
+C:\Users\admin\OneDrive\Área de Trabalho\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.Properties.Resources.resources
+C:\Users\admin\OneDrive\Área de Trabalho\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Área de Trabalho\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.csproj.CoreCompileInputs.cache
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\HeroisMonstros.exe
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\HeroisMonstros.pdb
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\HeroisMonstros.exe.config
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.csproj.AssemblyReference.cache
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.csproj.SuggestedBindingRedirects.cache
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.CarregarJogo.resources
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.Encontro.resources
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.GameOver.resources
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.NovoJogo.resources
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.TelaInicial.resources
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.Properties.Resources.resources
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.csproj.GenerateResource.cache
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.csproj.CoreCompileInputs.cache
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.exe
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.pdb
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\Resources\ps4ahappysettlement1.wav
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\Resources\ps4edgeofdarkness1.wav
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\Resources\ps4landmaster1.wav
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\HeroisMonstros.exe.config
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\HeroisMonstros.exe
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\HeroisMonstros.pdb
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.csproj.AssemblyReference.cache
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.csproj.SuggestedBindingRedirects.cache
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.CarregarJogo.resources
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.Encontro.resources
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.GameOver.resources
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.NovoJogo.resources
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.TelaInicial.resources
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.Properties.Resources.resources
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.csproj.GenerateResource.cache
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.csproj.CoreCompileInputs.cache
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.exe
+C:\Users\romaa\Desktop\PROJETO_25HORAS_V0.2\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.pdb
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\Resources\ps4ahappysettlement1.wav
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\Resources\ps4edgeofdarkness1.wav
+C:\Users\romaa\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\Resources\ps4landmaster1.wav
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.exe
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.pdb
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\Resources\ps4ahappysettlement1.wav
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\Resources\ps4edgeofdarkness1.wav
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\Resources\ps4landmaster1.wav
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\HeroisMonstros.exe.config
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\HeroisMonstros.exe
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\bin\Debug\HeroisMonstros.pdb
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.CarregarJogo.resources
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.Encontro.resources
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.GameOver.resources
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.NovoJogo.resources
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.TelaInicial.resources
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.Properties.Resources.resources
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\PROJETO_25HORAS\HeroisMonstros\HeroisMonstros\obj\Debug\HeroisMonstros.csproj.CoreCompileInputs.cache
