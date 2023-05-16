@@ -4,32 +4,32 @@
 ### Projeto de C# em Windows Forms emulando um  jogo de RPG antigo com texto corrido
 
 #### Título e objetivo
-•	Heróis vs Monstros
-•	Pequeno jogo de RPG, onde jogador tenta vencer quatro monstros buscados “aleatoriamente” na base de dados
+- Heróis vs Monstros
+- Pequeno jogo de RPG, onde jogador tenta vencer quatro monstros buscados “aleatoriamente” na base de dados
 
 #### Autor, data, contexto do trabalho
-•	Rodrigo Fernandes, 2023-04-20, Projeto de Programação (25 horas)
+- Rodrigo Fernandes, 2023-04-20, Projeto de Programação (25 horas)
 
 #### Descrição do problema
-•	Pequeno jogo de RPG em C# e Windows Forms
-•	Tem como objetivo tentar vencer 4 monstros buscados “aleatoriamente” na base de dados
-•	Todo processo pode ser feito criando e registando um novo personagem na base de dados ou indo buscar algum previamente criado
+- Pequeno jogo de RPG em C# e Windows Forms
+- Tem como objetivo tentar vencer 4 monstros buscados “aleatoriamente” na base de dados
+- Todo processo pode ser feito criando e registando um novo personagem na base de dados ou indo buscar algum previamente criado
 
 #### Ferramentas e versões
-•	Início do planeamento em 2023-03-15
-•	Reformulação do Diagrama de Entidades em 2023-03-22
-•	Modificações em 2023-04-02:
-o	Alteração do nome do projeto
-o	Retirada de alguns Forms
-o	Substituição do mapa por botões de navegação
-o	Alteração sutil na base de dados (Design)
-o	Simplificação do projeto para módulo de 25 horas
+- Início do planeamento em 2023-03-15
+- Reformulação do Diagrama de Entidades em 2023-03-22
+- Modificações em 2023-04-02:
+-- Alteração do nome do projeto
+-- Retirada de alguns Forms
+-- Substituição do mapa por botões de navegação
+-- Alteração sutil na base de dados (Design)
+-- Simplificação do projeto para módulo de 25 horas
 
 ### - Tela Inicial
-o	Inicia o Form com imagem de fundo e botões remodelados para parecerem 3D
-o	Toca uma música tema
-o	Ao clicar no botão Novo Jogo, fecha o Form atual e abre o Form NovoJogo
-o	Ao clicar no botão Carregar Jogo, fecha o Form atual e abre o Form CarregarJogo
+- Inicia o Form com imagem de fundo e botões remodelados para parecerem 3D
+- Toca uma música tema
+- Ao clicar no botão Novo Jogo, fecha o Form atual e abre o Form NovoJogo
+- Ao clicar no botão Carregar Jogo, fecha o Form atual e abre o Form CarregarJogo
 
 <img width="406" alt="Captura de ecrã 2023-04-26, às 15 20 53" src="https://user-images.githubusercontent.com/91450312/234605600-5a0e3627-a75c-405a-9877-f0830b00d51b.png">
 
