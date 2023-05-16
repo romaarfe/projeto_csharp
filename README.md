@@ -112,13 +112,13 @@
 - AtaqueEspecial - VARCHAR (50)
 
 #### Namespaces
-•	HeroisMonstros
-•	Diversos
+-	HeroisMonstros
+-	Diversos
 
 #### Classes e métodos
-•	TelaInicial
-o	ConfigurarBotoes( )
-o	TocarMusicaTema( )
+-	TelaInicial
+ -	ConfigurarBotoes( )
+ -	TocarMusicaTema( )
 
 •	NovoJogo
 o	ConfigurarBotoes( )
