@@ -19,11 +19,11 @@
 - Início do planeamento em 2023-03-15
 - Reformulação do Diagrama de Entidades em 2023-03-22
 - Modificações em 2023-04-02:
--- Alteração do nome do projeto
--- Retirada de alguns Forms
--- Substituição do mapa por botões de navegação
--- Alteração sutil na base de dados (Design)
--- Simplificação do projeto para módulo de 25 horas
+* Alteração do nome do projeto
+* Retirada de alguns Forms
+* Substituição do mapa por botões de navegação
+* Alteração sutil na base de dados (Design)
+* Simplificação do projeto para módulo de 25 horas
 
 ### - Tela Inicial
 - Inicia o Form com imagem de fundo e botões remodelados para parecerem 3D
