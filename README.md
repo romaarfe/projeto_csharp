@@ -82,7 +82,7 @@
   * Nome - VARCHAR (50), NN
   * Tipo - CHAR (10), NN
   * Descritivo - VARCHAR (50)
-
+#
 *	Heroi:
   * Id - INT, NN, PK, AI
   * Nome - VARCHAR (50), NN
@@ -93,14 +93,13 @@
   * MagiaOfensiva - VARCHAR (50), NN
   * MagiaDefensiva - VARCHAR (50), NN
   * RIP - BIT
-
+#
 *	Encontro:
   * Id - INT, NN, PK, AI
   * Descritivo - VARCHAR (100)
   * IdHeroi - INT, NN, FK
   * IdMonstro - INT, NN, FK
-
-
+#
 *	Monstro:
   * Id - INT, NN, PK, AI
   * Nome - VARCHAR (50), NN
@@ -117,6 +116,7 @@
 *	TelaInicial
   *	ConfigurarBotoes( )
   *	TocarMusicaTema( )
+#
 
 *	NovoJogo
   *	ConfigurarBotoes( )
