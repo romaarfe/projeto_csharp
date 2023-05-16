@@ -78,35 +78,36 @@
 
 #### Lista de tabelas, campos e tipos
 *	Magia:
- * Id - INT, NN, PK, AI
- * Nome - VARCHAR (50), NN
- * Tipo - CHAR (10), NN
- * Descritivo - VARCHAR (50)
+  * Id - INT, NN, PK, AI
+  * Nome - VARCHAR (50), NN
+  * Tipo - CHAR (10), NN
+  * Descritivo - VARCHAR (50)
 
 *	Heroi:
- * Id - INT, NN, PK, AI
- * Nome - VARCHAR (50), NN
- * Nivel - INT, NN
- * PontosDeVida - INT, NN
- * Arma - VARCHAR (50)
- * Armadura - VARCHAR (50)
- * MagiaOfensiva - VARCHAR (50), NN
- * MagiaDefensiva - VARCHAR (50), NN
- * RIP - BIT
+  * Id - INT, NN, PK, AI
+  * Nome - VARCHAR (50), NN
+  * Nivel - INT, NN
+  * PontosDeVida - INT, NN
+  * Arma - VARCHAR (50)
+  * Armadura - VARCHAR (50)
+  * MagiaOfensiva - VARCHAR (50), NN
+  * MagiaDefensiva - VARCHAR (50), NN
+  * RIP - BIT
 
 *	Encontro:
-- Id - INT, NN, PK, AI
-- Descritivo - VARCHAR (100)
-- IdHeroi - INT, NN, FK
-- IdMonstro - INT, NN, FK
+  * Id - INT, NN, PK, AI
+  * Descritivo - VARCHAR (100)
+  * IdHeroi - INT, NN, FK
+  * IdMonstro - INT, NN, FK
+
 
 *	Monstro:
- * Id - INT, NN, PK, AI
- * Nome - VARCHAR (50), NN
- * Dificuldade - INT, NN
- * AtaqueNormal - VARCHAR (50)
- * AtaquePoderoso - VARCHAR (50)
- * AtaqueEspecial - VARCHAR (50)
+  * Id - INT, NN, PK, AI
+  * Nome - VARCHAR (50), NN
+  * Dificuldade - INT, NN
+  * AtaqueNormal - VARCHAR (50)
+  * AtaquePoderoso - VARCHAR (50)
+  * AtaqueEspecial - VARCHAR (50)
 
 #### Namespaces
 *	HeroisMonstros
@@ -114,51 +115,51 @@
 
 #### Classes e métodos
 *	TelaInicial
- *	ConfigurarBotoes( )
- *	TocarMusicaTema( )
+  *	ConfigurarBotoes( )
+  *	TocarMusicaTema( )
 
 *	NovoJogo
- *	ConfigurarBotoes( )
- *	RolarPontosDeVida( )
- *	RolarArma( )
- *	RolarArmadura( )
- *	RolarMagiaOfensiva( )
- *	RolarMagiaDefensiva( )
- *	PesquisarNaBaseDeDados( )
- *	RegistrarNaBaseDeDados( )
+  *	ConfigurarBotoes( )
+  *	RolarPontosDeVida( )
+  *	RolarArma( )
+  *	RolarArmadura( )
+  *	RolarMagiaOfensiva( )
+  *	RolarMagiaDefensiva( )
+  *	PesquisarNaBaseDeDados( )
+  *	RegistrarNaBaseDeDados( )
 
 *	CarregarJogo
- *	ConfigurarBotoes( )
- *	PreencherLista( )
+  *	ConfigurarBotoes( )
+  *	PreencherLista( )
 
 *	Encontro
- *	TocarMusicaTema( )
- *	ConfigurarBotoes( )
- *	BloquearBotoesDeAcao( )
- *	AtivarBotoesDeAcao( )
- *	BloquearSetasDeNavegacao( )
- *	AtivarSetasDeNavegacao( )
- * TremerTela( )
- *	BuscarHeroi( )
- *	ConfigurarHeroi( )
- *	IniciarEncontro( )
- *	BuscarMonstro( )
- *	MonstroAtacar( )
- *	FinalizarAventura( )
+  *	TocarMusicaTema( )
+  *	ConfigurarBotoes( )
+  *	BloquearBotoesDeAcao( )
+  *	AtivarBotoesDeAcao( )
+  *	BloquearSetasDeNavegacao( )
+  *	AtivarSetasDeNavegacao( )
+  * TremerTela( )
+  *	BuscarHeroi( )
+  *	ConfigurarHeroi( )
+  *	IniciarEncontro( )
+  *	BuscarMonstro( )
+  *	MonstroAtacar( )
+  *	FinalizarAventura( )
 
 *	GameOver
- *	FinalDoJogo( )
- *	RegistrarVitoria( )
- *	RegistrarDerrota( )
+  *	FinalDoJogo( )
+  *	RegistrarVitoria( )
+  *	RegistrarDerrota( )
 
 *	Conecta
- *	BuscarDados( )
+  *	BuscarDados( )
 
 *	Configuracoes
 
 #### Outras informações
 *	Material Extra (Resources):
- *	Fontes
- *	Imagens
- *	Música
+  *	Fontes
+  *	Imagens
+  *	Música
 
