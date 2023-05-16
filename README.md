@@ -117,52 +117,52 @@
 
 #### Classes e métodos
 -	TelaInicial
- -	ConfigurarBotoes( )
- -	TocarMusicaTema( )
+ *	ConfigurarBotoes( )
+ *	TocarMusicaTema( )
 
-•	NovoJogo
-o	ConfigurarBotoes( )
-o	RolarPontosDeVida( )
-o	RolarArma( )
-o	RolarArmadura( )
-o	RolarMagiaOfensiva( )
-o	RolarMagiaDefensiva( )
-o	PesquisarNaBaseDeDados( )
-o	RegistrarNaBaseDeDados( )
+-	NovoJogo
+ *	ConfigurarBotoes( )
+ *	RolarPontosDeVida( )
+ *	RolarArma( )
+ *	RolarArmadura( )
+ *	RolarMagiaOfensiva( )
+ *	RolarMagiaDefensiva( )
+ *	PesquisarNaBaseDeDados( )
+ *	RegistrarNaBaseDeDados( )
 
-•	CarregarJogo
-o	ConfigurarBotoes( )
-o	PreencherLista( )
+-	CarregarJogo
+ *	ConfigurarBotoes( )
+ *	PreencherLista( )
 
-•	Encontro
-o	TocarMusicaTema( )
-o	ConfigurarBotoes( )
-o	BloquearBotoesDeAcao( )
-o	AtivarBotoesDeAcao( )
-o	BloquearSetasDeNavegacao( )
-o	AtivarSetasDeNavegacao( )
-o	TremerTela( )
-o	BuscarHeroi( )
-o	ConfigurarHeroi( )
-o	IniciarEncontro( )
-o	BuscarMonstro( )
-o	MonstroAtacar( )
-o	FinalizarAventura( )
+-	Encontro
+ *	TocarMusicaTema( )
+ *	ConfigurarBotoes( )
+ *	BloquearBotoesDeAcao( )
+ *	AtivarBotoesDeAcao( )
+ *	BloquearSetasDeNavegacao( )
+ *	AtivarSetasDeNavegacao( )
+ * TremerTela( )
+ *	BuscarHeroi( )
+ *	ConfigurarHeroi( )
+ *	IniciarEncontro( )
+ *	BuscarMonstro( )
+ *	MonstroAtacar( )
+ *	FinalizarAventura( )
 
-•	GameOver
-o	FinalDoJogo( )
-o	RegistrarVitoria( )
-o	RegistrarDerrota( )
+-	GameOver
+ *	FinalDoJogo( )
+ *	RegistrarVitoria( )
+ *	RegistrarDerrota( )
 
-•	Conecta
-o	BuscarDados( )
+-	Conecta
+ *	BuscarDados( )
 
-•	Configuracoes
+-	Configuracoes
 
 
 #### Outras informações
-•	Material Extra (Resources):
-o	Fontes
-o	Imagens
-o	Música
+-	Material Extra (Resources):
+ *	Fontes
+ *	Imagens
+ *	Música
 
