@@ -98,18 +98,18 @@
 - RIP - BIT
 
 •	Encontro:
-o	Id - INT, NN, PK, AI
-o	Descritivo - VARCHAR (100)
-o	IdHeroi - INT, NN, FK
-o	IdMonstro - INT, NN, FK
+- Id - INT, NN, PK, AI
+- Descritivo - VARCHAR (100)
+- IdHeroi - INT, NN, FK
+- IdMonstro - INT, NN, FK
 
 •	Monstro:
-o	Id - INT, NN, PK, AI
-o	Nome - VARCHAR (50), NN
-o	Dificuldade - INT, NN
-o	AtaqueNormal - VARCHAR (50)
-o	AtaquePoderoso - VARCHAR (50)
-o	AtaqueEspecial - VARCHAR (50)
+- Id - INT, NN, PK, AI
+- Nome - VARCHAR (50), NN
+- Dificuldade - INT, NN
+- AtaqueNormal - VARCHAR (50)
+- AtaquePoderoso - VARCHAR (50)
+- AtaqueEspecial - VARCHAR (50)
 
 #### Namespaces
 •	HeroisMonstros
