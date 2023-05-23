@@ -22,8 +22,7 @@ namespace Diversos
     public class Conecta
     {
         // VARIÁVEIS DA CLASSE CONECTA, COM A STRING CONNECTION
-        public static string StrConn = "Data Source = 62.28.39.135,62444; Initial Catalog = zRodrigoProjeto25;" +
-                                       "User Id = EFARodrigo; Password = 123.Abc;";
+        public static string StrConn = "STRING CONNECTION";
         public string StrSQL;
 
         // MÉTODO DE ACESSO À BASE DE DADOS
