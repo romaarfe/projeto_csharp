@@ -122,11 +122,11 @@
 
 ---
 #### CLASSES / MÉTODOS
-* TelaInicial
+* **TelaInicial**
   *	ConfigurarBotoes( )
   *	TocarMusicaTema( )
 
-* NovoJogo
+* **NovoJogo**
   *	ConfigurarBotoes( )
   *	RolarPontosDeVida( )
   *	RolarArma( )
@@ -136,11 +136,11 @@
   *	PesquisarNaBaseDeDados( )
   *	RegistrarNaBaseDeDados( )
 
-* CarregarJogo
+* **CarregarJogo**
   *	ConfigurarBotoes( )
   *	PreencherLista( )
 
-* Encontro
+* **Encontro**
   *	TocarMusicaTema( )
   *	ConfigurarBotoes( )
   *	BloquearBotoesDeAcao( )
@@ -155,18 +155,19 @@
   *	MonstroAtacar( )
   *	FinalizarAventura( )
 
-* GameOver
+* **GameOver**
   *	FinalDoJogo( )
   *	RegistrarVitoria( )
   *	RegistrarDerrota( )
 
-* Conecta
+* **Conecta**
   *	BuscarDados( )
 
-* Configuracoes
+* **Configuracoes**
 
-#### Outras informações
-* Material Extra (Resources):
+---
+#### OUTRAS INFORMAÇÕES
+* **Material Extra** (Resources):
   *	Fontes
   *	Imagens
   *	Música
