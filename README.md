@@ -117,8 +117,8 @@
 
 ---
 #### 🗃 NAMESPACES
-* HeroisMonstros
-* Diversos
+* **HeroisMonstros**
+* **Diversos**
 
 ---
 #### 📇 CLASSES / MÉTODOS
@@ -167,7 +167,7 @@
 
 ---
 #### 📝 OUTRAS INFORMAÇÕES
-* **Material Extra** (Resources):
+* **Material Extra** *(Resources)*:
   *	Fontes
   *	Imagens
   *	Música
