@@ -1,16 +1,16 @@
-### 🚧 PROJETO DE C# EM WINDOWS FORMS EMULANDO UM JOGO DE RPG ANTIGO COM TEXTO CORRIDO 🚧
+### 🚧 PROJETO DE C# EM WINDOWS FORMS EMULANDO UM JOGO DE RPG ANTIGO DE TEXTO 🚧
 
 ---
-#### 👾 Título e objetivo
+#### 👾 TÍTULO E OBJETIVO
 * Heróis vs Monstros
 * Pequeno jogo de RPG, onde jogador tenta vencer quatro monstros buscados “aleatoriamente” na base de dados
 
 ---
-#### 🤓 Autor, data, contexto do trabalho
+#### 🤓 AUTOR / DATA / CONTEXTO DO TRABALHO
 * Rodrigo Fernandes, 2023-04-20, Projeto de Programação (25 horas)
 
 ---
-#### 🎮 Descrição do problema
+#### 🎮 DESCRIÇÃO DO PROBLEMA
 * Pequeno jogo de RPG em C# e Windows Forms
 * Tem como objetivo tentar vencer 4 monstros buscados “aleatoriamente” na base de dados
 * Todo processo pode ser feito criando e registando um novo personagem na base de dados ou indo buscar algum previamente criado
