@@ -1,7 +1,4 @@
-# PROJETO DE 25 HORAS EM C# 
-## PARA CURSO DE PROGRAMADOR DE INFORMÁTICA - IEFP BRAGA
-
-### 🚧 Projeto de C# em Windows Forms emulando um  jogo de RPG antigo com texto corrido 🚧
+## 🚧 PROJETO DE C# EM WINDOWS FORMS EMULANDO UM JOGO DE RG ANTIGO COM TEXTO CORRIDO 🚧
 
 #### 👾 Título e objetivo
 * Heróis vs Monstros
@@ -162,3 +159,6 @@
   *	Imagens
   *	Música
 
+---
+#### PROJETO DE 25 HORAS EM C# 
+##### PARA CURSO DE PROGRAMADOR DE INFORMÁTICA - IEFP BRAGA
