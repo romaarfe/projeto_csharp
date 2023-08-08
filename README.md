@@ -34,13 +34,13 @@
 <img width="406" alt="Captura de ecrã 2023-04-26, às 15 20 53" src="https://user-images.githubusercontent.com/91450312/234605600-5a0e3627-a75c-405a-9877-f0830b00d51b.png">
 
 ### Novo Jogo
-* Inicia o Form com imagem de fundo e com botões remodelados para aparecerem 3D
-* Toca uma música tema igual a anterior
-* Há um botão para Voltar ao Form anterior
-* Há uma textbox para ser preenchida com o Nome do Herói
-* Há um botão com imagem de um dado que quando clicado ativa métodos que estão ligados às decisões “randômicas”. Desta forma são gerados valores que em alguns métodos onde são testadas condições para definirem o tipo de Arma e Armadura, ou mesmo utilizar esse valor como Id na hora de buscar na Base de Dados uma Magia Ofensiva e uma Magia Defensiva
-* Ao clicar no botão Iniciar Jogo, é verificado na Base de Dados se o nome já existe, e/ou se a textbox foi preenchida, além de testar se já foi clicado no botão do dado
-* Caso tudo esteja bem, é criado um registo na Base de Dados, fecha o Form atual e abre o Form Encontro
+- [x] Inicia o Form com imagem de fundo e com botões remodelados para aparecerem 3D
+- [x] Toca uma música tema igual a anterior
+- [x] Há um botão para Voltar ao Form anterior
+- [x] Há uma textbox para ser preenchida com o Nome do Herói
+- [x] Há um botão com imagem de um dado que quando clicado ativa métodos que estão ligados às decisões “randômicas”. Desta forma são gerados valores que em alguns métodos onde são testadas condições para definirem o tipo de Arma e Armadura, ou mesmo utilizar esse valor como Id na hora de buscar na Base de Dados uma Magia Ofensiva e uma Magia Defensiva
+- [x] Ao clicar no botão Iniciar Jogo, é verificado na Base de Dados se o nome já existe, e/ou se a textbox foi preenchida, além de testar se já foi clicado no botão do dado
+- [x] Caso tudo esteja bem, é criado um registo na Base de Dados, fecha o Form atual e abre o Form Encontro
 
 <img width="403" alt="Captura de ecrã 2023-04-26, às 15 22 53" src="https://user-images.githubusercontent.com/91450312/234606325-2451915a-534e-42d0-be75-b2ae96dee4ce.png">
 
