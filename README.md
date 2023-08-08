@@ -4,8 +4,8 @@
 ### Projeto de C# em Windows Forms emulando um  jogo de RPG antigo com texto corrido
 
 #### Título e objetivo
-- [x] Heróis vs Monstros
-- [x] Pequeno jogo de RPG, onde jogador tenta vencer quatro monstros buscados “aleatoriamente” na base de dados
+* Heróis vs Monstros
+* Pequeno jogo de RPG, onde jogador tenta vencer quatro monstros buscados “aleatoriamente” na base de dados
 
 #### Autor, data, contexto do trabalho
 * Rodrigo Fernandes, 2023-04-20, Projeto de Programação (25 horas)
@@ -26,10 +26,10 @@
   - [x] Simplificação do projeto para módulo de 25 horas
 
 ### Tela Inicial
-* Inicia o Form com imagem de fundo e botões remodelados para parecerem 3D
-* Toca uma música tema
-* Ao clicar no botão Novo Jogo, fecha o Form atual e abre o Form NovoJogo
-* Ao clicar no botão Carregar Jogo, fecha o Form atual e abre o Form CarregarJogo
+- [x] Inicia o Form com imagem de fundo e botões remodelados para parecerem 3D
+- [x] Toca uma música tema
+- [x] Ao clicar no botão Novo Jogo, fecha o Form atual e abre o Form NovoJogo
+- [x] Ao clicar no botão Carregar Jogo, fecha o Form atual e abre o Form CarregarJogo
 
 <img width="406" alt="Captura de ecrã 2023-04-26, às 15 20 53" src="https://user-images.githubusercontent.com/91450312/234605600-5a0e3627-a75c-405a-9877-f0830b00d51b.png">
 
