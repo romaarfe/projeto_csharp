@@ -82,14 +82,15 @@
 
 <img width="407" alt="Captura de ecrã 2023-04-26, às 15 25 02" src="https://user-images.githubusercontent.com/91450312/234606751-9c9ff4c4-a7e3-4d46-97be-d65f111357e6.png">
 
-#### Lista de tabelas, campos e tipos
-* Magia:	
+---
+#### TABELAS / CAMPOS / TIPOS
+* **Magia**:	
   * Id - INT, NN, PK, AI
   * Nome - VARCHAR (50), NN
   * Tipo - CHAR (10), NN
   * Descritivo - VARCHAR (50)
   
-* Heroi:
+* **Heroi**:
   * Id - INT, NN, PK, AI
   * Nome - VARCHAR (50), NN
   * Nivel - INT, NN
@@ -100,13 +101,13 @@
   * MagiaDefensiva - VARCHAR (50), NN
   * RIP - BIT
   
-* Encontro:
+* **Encontro**:
   * Id - INT, NN, PK, AI
   * Descritivo - VARCHAR (100)
   * IdHeroi - INT, NN, FK
   * IdMonstro - INT, NN, FK
 
-* Monstro:
+* **Monstro**:
   * Id - INT, NN, PK, AI
   * Nome - VARCHAR (50), NN
   * Dificuldade - INT, NN
@@ -114,11 +115,13 @@
   * AtaquePoderoso - VARCHAR (50)
   * AtaqueEspecial - VARCHAR (50)
 
-#### Namespaces
+---
+#### NAMESPACES
 * HeroisMonstros
 * Diversos
 
-#### Classes e métodos
+---
+#### CLASSES / MÉTODOS
 * TelaInicial
   *	ConfigurarBotoes( )
   *	TocarMusicaTema( )
