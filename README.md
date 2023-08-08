@@ -3,19 +3,19 @@
 
 ### Projeto de C# em Windows Forms emulando um  jogo de RPG antigo com texto corrido
 
-#### Título e objetivo
+#### 👾 Título e objetivo
 * Heróis vs Monstros
 * Pequeno jogo de RPG, onde jogador tenta vencer quatro monstros buscados “aleatoriamente” na base de dados
 
-#### Autor, data, contexto do trabalho
+#### 🤓 Autor, data, contexto do trabalho
 * Rodrigo Fernandes, 2023-04-20, Projeto de Programação (25 horas)
 
-#### Descrição do problema
+#### 🎮 Descrição do problema
 * Pequeno jogo de RPG em C# e Windows Forms
 * Tem como objetivo tentar vencer 4 monstros buscados “aleatoriamente” na base de dados
 * Todo processo pode ser feito criando e registando um novo personagem na base de dados ou indo buscar algum previamente criado
 
-#### Ferramentas e versões
+#### 🤖 Ferramentas e versões
 * Início do planeamento em 2023-03-15
 * Reformulação do Diagrama de Entidades em 2023-03-22
 * Modificações em 2023-04-02:
@@ -25,7 +25,7 @@
   - [x] Alteração sutil na base de dados (Design)
   - [x] Simplificação do projeto para módulo de 25 horas
 
-### Tela Inicial
+### 🛡 Tela Inicial
 - [x] Inicia o Form com imagem de fundo e botões remodelados para parecerem 3D
 - [x] Toca uma música tema
 - [x] Ao clicar no botão Novo Jogo, fecha o Form atual e abre o Form NovoJogo
@@ -33,7 +33,7 @@
 
 <img width="406" alt="Captura de ecrã 2023-04-26, às 15 20 53" src="https://user-images.githubusercontent.com/91450312/234605600-5a0e3627-a75c-405a-9877-f0830b00d51b.png">
 
-### Novo Jogo
+### ⚔️ Novo Jogo
 - [x] Inicia o Form com imagem de fundo e com botões remodelados para aparecerem 3D
 - [x] Toca uma música tema igual a anterior
 - [x] Há um botão para Voltar ao Form anterior
@@ -44,7 +44,7 @@
 
 <img width="403" alt="Captura de ecrã 2023-04-26, às 15 22 53" src="https://user-images.githubusercontent.com/91450312/234606325-2451915a-534e-42d0-be75-b2ae96dee4ce.png">
 
-### Carregar Jogo
+### 💾 Carregar Jogo
 - [x] Inicia o Form com imagem de fundo e com botões remodelados para aparecerem 3D
 - [x] Toca uma música tema igual a anterior
 - [x] Caso já existam Heróis criados anteriormente e registados na Base de Dados, os seus nomes são apresentados numa listbox
@@ -53,7 +53,7 @@
 
 <img width="403" alt="Captura de ecrã 2023-04-26, às 15 22 27" src="https://user-images.githubusercontent.com/91450312/234606437-2302b5ce-fc07-4967-8131-16aa1630fc3d.png">
 
-### Encontro
+### 👹 Encontro
 - [x] Inicia o Form com imagem de fundo diferente da anterior, formato diferente e com botões remodelados para aparecerem 3D
 - [x] Toca uma música tema diferente da anterior
 - [x] Busca na Base de Dados o Herói criado ou selecionado e mantém suas informações no programa. Estas informações são configuradas e apresentadas parcialmente em labels ou utilizadas em botões
@@ -68,11 +68,11 @@
 
 <img width="941" alt="Captura de ecrã 2023-04-26, às 15 23 28" src="https://user-images.githubusercontent.com/91450312/234606353-531a6e7f-ddfe-4134-a7fe-ed478a223a62.png">
 
-### Game Over
-* Inicia o Form com imagem de fundo semelhante às primeiras, formato semelhante e com botões remodelados para aparecerem 3D
-* Toca uma música tema diferente das anteriores
-* Caso este Form tenha sido iniciado por uma Derrota, os registos do Herói são apagados da Base de Dados, tanto na tabela Encontro quanto na Herói.
-* Caso este Form tenha sido iniciado por uma Vitória, alguns registos do Herói são atualizados na Base de Dados. E são apresentados numa DataGridView os nomes dos locais, o nome do Herói e os nomes dos 4 Monstros enfrentados neste último Encontro
+### 🪦 Game Over
+- [x] Inicia o Form com imagem de fundo semelhante às primeiras, formato semelhante e com botões remodelados para aparecerem 3D
+- [x] Toca uma música tema diferente das anteriores
+- [x] Caso este Form tenha sido iniciado por uma Derrota, os registos do Herói são apagados da Base de Dados, tanto na tabela Encontro quanto na Herói.
+- [x] Caso este Form tenha sido iniciado por uma Vitória, alguns registos do Herói são atualizados na Base de Dados. E são apresentados numa DataGridView os nomes dos locais, o nome do Herói e os nomes dos 4 Monstros enfrentados neste último Encontro
 
 <img width="407" alt="Captura de ecrã 2023-04-26, às 15 25 02" src="https://user-images.githubusercontent.com/91450312/234606751-9c9ff4c4-a7e3-4d46-97be-d65f111357e6.png">
 
