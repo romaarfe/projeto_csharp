@@ -4,8 +4,8 @@
 ### Projeto de C# em Windows Forms emulando um  jogo de RPG antigo com texto corrido
 
 #### Título e objetivo
-* Heróis vs Monstros
-* Pequeno jogo de RPG, onde jogador tenta vencer quatro monstros buscados “aleatoriamente” na base de dados
+- [x] Heróis vs Monstros
+- [x] Pequeno jogo de RPG, onde jogador tenta vencer quatro monstros buscados “aleatoriamente” na base de dados
 
 #### Autor, data, contexto do trabalho
 * Rodrigo Fernandes, 2023-04-20, Projeto de Programação (25 horas)
