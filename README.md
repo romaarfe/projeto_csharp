@@ -45,26 +45,26 @@
 <img width="403" alt="Captura de ecrã 2023-04-26, às 15 22 53" src="https://user-images.githubusercontent.com/91450312/234606325-2451915a-534e-42d0-be75-b2ae96dee4ce.png">
 
 ### Carregar Jogo
-* Inicia o Form com imagem de fundo e com botões remodelados para aparecerem 3D
-* Toca uma música tema igual a anterior
-* Caso já existam Heróis criados anteriormente e registados na Base de Dados, os seus nomes são apresentados numa listbox
-* Há um botão para Voltar ao Form anterior
-* Ao selecionar um dos Heróis e clicar em Iniciar Jogo, fecha o Forma atual e abre o Form Encontro
+- [x] Inicia o Form com imagem de fundo e com botões remodelados para aparecerem 3D
+- [x] Toca uma música tema igual a anterior
+- [x] Caso já existam Heróis criados anteriormente e registados na Base de Dados, os seus nomes são apresentados numa listbox
+- [x] Há um botão para Voltar ao Form anterior
+- [x] Ao selecionar um dos Heróis e clicar em Iniciar Jogo, fecha o Forma atual e abre o Form Encontro
 
 <img width="403" alt="Captura de ecrã 2023-04-26, às 15 22 27" src="https://user-images.githubusercontent.com/91450312/234606437-2302b5ce-fc07-4967-8131-16aa1630fc3d.png">
 
 ### Encontro
-* Inicia o Form com imagem de fundo diferente da anterior, formato diferente e com botões remodelados para aparecerem 3D
-* Toca uma música tema diferente da anterior
-* Busca na Base de Dados o Herói criado ou selecionado e mantém suas informações no programa. Estas informações são configuradas e apresentadas parcialmente em labels ou utilizadas em botões
-* Tem início do Encontro onde informações são apresentadas numa listbox, emulando um local fictício que é a Cidade dos Sacro-Montes. As frases são apresentadas pausadamente nesta lisbox, através de um mecanismo de async e Task.Delay
-* Existem 4 botões com Setas de Navegação, onde cada um abre um evento em um local fictício distinto (Floresta, Montanha, Tundra e Deserto) quando um deles é clicado. Há também uma Contagem de Encontros
-* Em cada um destes botões é gerado um valor “randômico” e pesquisado na Base de Dados, na tabela dos Monstros e suas informações são carregadas no programa
-* Há um registo na Base de Dados, na tabela Encontro, do local, do nome do Herói e o nome do Monstro
-* Existem outros 3 botões que são ativados neste momento onde é possível, ao clicar, gerar um Ataque contra o Monstro, usar uma Magia Ofensiva contra o Monstro ou usar uma Magia Defensiva no próprio Herói. Estes efeitos envolvem uma matemática de valor de Ataque contra o valor de Defesa, onde o valor que extrapola é retirado nos Pontos de Vida Atuais, seja do Herói ou do Monstro
-* Caso os Pontos de Vida Atuais chegarem à zero, o Monstro morre e são reativadas as setas de navegação. Caso isso ocorra com o Herói, então este Form é fechado, e é aberto o Form GameOver. Isto conta como uma Derrota.
-* Toda vez que um desses botões é clicado, há a emulação da tela tremer, através da Thread e do Sleep
-* Ao se atingir 4 na Contagem de Encontros, o Form atual é fechado, para então abrir o Form GameOver. Isso conta como uma Vitória.
+- [x] Inicia o Form com imagem de fundo diferente da anterior, formato diferente e com botões remodelados para aparecerem 3D
+- [x] Toca uma música tema diferente da anterior
+- [x] Busca na Base de Dados o Herói criado ou selecionado e mantém suas informações no programa. Estas informações são configuradas e apresentadas parcialmente em labels ou utilizadas em botões
+- [x] Tem início do Encontro onde informações são apresentadas numa listbox, emulando um local fictício que é a Cidade dos Sacro-Montes. As frases são apresentadas pausadamente nesta lisbox, através de um mecanismo de async e Task.Delay
+- [x] Existem 4 botões com Setas de Navegação, onde cada um abre um evento em um local fictício distinto (Floresta, Montanha, Tundra e Deserto) quando um deles é clicado. Há também uma Contagem de Encontros
+- [x] Em cada um destes botões é gerado um valor “randômico” e pesquisado na Base de Dados, na tabela dos Monstros e suas informações são carregadas no programa
+- [x] Há um registo na Base de Dados, na tabela Encontro, do local, do nome do Herói e o nome do Monstro
+- [x] Existem outros 3 botões que são ativados neste momento onde é possível, ao clicar, gerar um Ataque contra o Monstro, usar uma Magia Ofensiva contra o Monstro ou usar uma Magia Defensiva no próprio Herói. Estes efeitos envolvem uma matemática de valor de Ataque contra o valor de Defesa, onde o valor que extrapola é retirado nos Pontos de Vida Atuais, seja do Herói ou do Monstro
+- [x] Caso os Pontos de Vida Atuais chegarem à zero, o Monstro morre e são reativadas as setas de navegação. Caso isso ocorra com o Herói, então este Form é fechado, e é aberto o Form GameOver. Isto conta como uma Derrota.
+- [x] Toda vez que um desses botões é clicado, há a emulação da tela tremer, através da Thread e do Sleep
+- [x] Ao se atingir 4 na Contagem de Encontros, o Form atual é fechado, para então abrir o Form GameOver. Isso conta como uma Vitória.
 
 <img width="941" alt="Captura de ecrã 2023-04-26, às 15 23 28" src="https://user-images.githubusercontent.com/91450312/234606353-531a6e7f-ddfe-4134-a7fe-ed478a223a62.png">
 
