@@ -1,7 +1,7 @@
 ### 🚧 C# EM WINDOWS FORMS EMULANDO UM JOGO DE RPG ANTIGO DE TEXTO 🚧
 
 ---
-#### 👾 TÍTULO E OBJETIVO
+#### 👾 TÍTULO / OBJETIVO
 * Heróis vs Monstros
 * Pequeno jogo de RPG, onde jogador tenta vencer quatro monstros buscados “aleatoriamente” na base de dados
 
