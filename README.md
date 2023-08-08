@@ -83,7 +83,7 @@
 <img width="407" alt="Captura de ecrã 2023-04-26, às 15 25 02" src="https://user-images.githubusercontent.com/91450312/234606751-9c9ff4c4-a7e3-4d46-97be-d65f111357e6.png">
 
 ---
-#### TABELAS / CAMPOS / TIPOS
+#### 📊 TABELAS / CAMPOS / TIPOS
 * **Magia**:	
   * Id - INT, NN, PK, AI
   * Nome - VARCHAR (50), NN
@@ -116,12 +116,12 @@
   * AtaqueEspecial - VARCHAR (50)
 
 ---
-#### NAMESPACES
+#### 🗃 NAMESPACES
 * HeroisMonstros
 * Diversos
 
 ---
-#### CLASSES / MÉTODOS
+#### 📇 CLASSES / MÉTODOS
 * **TelaInicial**
   *	ConfigurarBotoes( )
   *	TocarMusicaTema( )
@@ -166,7 +166,7 @@
 * **Configuracoes**
 
 ---
-#### OUTRAS INFORMAÇÕES
+#### 📝 OUTRAS INFORMAÇÕES
 * **Material Extra** (Resources):
   *	Fontes
   *	Imagens
