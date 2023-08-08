@@ -16,7 +16,7 @@
 * Todo processo pode ser feito criando e registando um novo personagem na base de dados ou indo buscar algum previamente criado
 
 ---
-#### 🤖 Ferramentas e versões
+#### 🤖 FERRAMENTAS / VERSÕES
 * Início do planeamento em 2023-03-15
 * Reformulação do Diagrama de Entidades em 2023-03-22
 * Modificações em 2023-04-02:
@@ -27,7 +27,7 @@
   - [x] Simplificação do projeto para módulo de 25 horas
 
 ---
-### 🛡 Tela Inicial
+### 🛡 TELA INICIAL
 - [x] Inicia o Form com imagem de fundo e botões remodelados para parecerem 3D
 - [x] Toca uma música tema
 - [x] Ao clicar no botão Novo Jogo, fecha o Form atual e abre o Form NovoJogo
@@ -36,7 +36,7 @@
 <img width="406" alt="Captura de ecrã 2023-04-26, às 15 20 53" src="https://user-images.githubusercontent.com/91450312/234605600-5a0e3627-a75c-405a-9877-f0830b00d51b.png">
 
 ---
-### ⚔️ Novo Jogo
+### ⚔️ NOVO JOGO
 - [x] Inicia o Form com imagem de fundo e com botões remodelados para aparecerem 3D
 - [x] Toca uma música tema igual a anterior
 - [x] Há um botão para Voltar ao Form anterior
@@ -47,7 +47,8 @@
 
 <img width="403" alt="Captura de ecrã 2023-04-26, às 15 22 53" src="https://user-images.githubusercontent.com/91450312/234606325-2451915a-534e-42d0-be75-b2ae96dee4ce.png">
 
-### 💾 Carregar Jogo
+---
+### 💾 CARREGAR JOGO
 - [x] Inicia o Form com imagem de fundo e com botões remodelados para aparecerem 3D
 - [x] Toca uma música tema igual a anterior
 - [x] Caso já existam Heróis criados anteriormente e registados na Base de Dados, os seus nomes são apresentados numa listbox
@@ -56,7 +57,8 @@
 
 <img width="403" alt="Captura de ecrã 2023-04-26, às 15 22 27" src="https://user-images.githubusercontent.com/91450312/234606437-2302b5ce-fc07-4967-8131-16aa1630fc3d.png">
 
-### 👹 Encontro
+---
+### 👹 ENCONTRO
 - [x] Inicia o Form com imagem de fundo diferente da anterior, formato diferente e com botões remodelados para aparecerem 3D
 - [x] Toca uma música tema diferente da anterior
 - [x] Busca na Base de Dados o Herói criado ou selecionado e mantém suas informações no programa. Estas informações são configuradas e apresentadas parcialmente em labels ou utilizadas em botões
@@ -71,7 +73,8 @@
 
 <img width="941" alt="Captura de ecrã 2023-04-26, às 15 23 28" src="https://user-images.githubusercontent.com/91450312/234606353-531a6e7f-ddfe-4134-a7fe-ed478a223a62.png">
 
-### 🪦 Game Over
+---
+### 🪦 GAME OVER
 - [x] Inicia o Form com imagem de fundo semelhante às primeiras, formato semelhante e com botões remodelados para aparecerem 3D
 - [x] Toca uma música tema diferente das anteriores
 - [x] Caso este Form tenha sido iniciado por uma Derrota, os registos do Herói são apagados da Base de Dados, tanto na tabela Encontro quanto na Herói.
@@ -166,5 +169,5 @@
   *	Música
 
 ---
-#### PROJETO DE 25 HORAS EM C# 
-##### PARA CURSO DE PROGRAMADOR DE INFORMÁTICA - IEFP BRAGA
+#### 👨‍💻 PROJETO DE 25 HORAS EM C# 
+##### 📖 PARA CURSO DE PROGRAMADOR DE INFORMÁTICA - IEFP BRAGA
