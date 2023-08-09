@@ -7,7 +7,7 @@
 
 ---
 #### 🤓 AUTOR / DATA / CONTEXTO DO TRABALHO
-* Rodrigo Fernandes, 2023-04-20, Projeto de Programação (25 horas)
+* **Rodrigo Fernandes, 2023-04-20, Projeto de Programação (25 horas)**
 
 ---
 #### 🎮 DESCRIÇÃO DO PROBLEMA
