@@ -1,6 +1,7 @@
-<h3 align=center>
+<h3 align="center">
   🚧 HERÓIS VS MONSTROS 🚧
 </h3>
+
 ---
 #### 👾 TÍTULO / OBJETIVO
 * Heróis vs Monstros
