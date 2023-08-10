@@ -3,9 +3,8 @@
 </h3>
 
 ---
-#### 👾 TÍTULO / OBJETIVO
-* Heróis vs Monstros
-* Pequeno jogo de RPG, onde jogador tenta vencer quatro monstros buscados “aleatoriamente” na base de dados
+#### 👾 OBJETIVO
+* Jogo de RPG, onde jogador tenta vencer quatro monstros buscados “aleatoriamente” na base de dados
 
 ---
 #### 🤓 AUTOR / DATA / CONTEXTO DO TRABALHO
