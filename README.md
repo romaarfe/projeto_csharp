@@ -12,7 +12,7 @@
 
 ---
 #### 🎮 DESCRIÇÃO DO PROBLEMA
-* Pequeno jogo de RPG em C# e Windows Forms
+* **Pequeno jogo de RPG em C# e Windows Forms**
 * Tem como objetivo tentar vencer 4 monstros buscados “aleatoriamente” na base de dados
 * Todo processo pode ser feito criando e registando um novo personagem na base de dados ou indo buscar algum previamente criado
 
